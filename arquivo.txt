@@ -1,0 +1,11 @@
+& C:/Python312/python.exe c:/Users/PC/Documents/aws/aula4.py& C:/Python312/python.exe c:/Users/PC/Documents/aws/aula4.pyCafé
+Café
+Café
+Café
+Água
+cafe
+agua
+ovos
+LEITE
+CARNE
+CARNE
